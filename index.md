@@ -1,7 +1,7 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
-email: woden@cs.cmu.edu
+title: 张峰-个人简历
+email: fenng_95@163.com
 homepage:
     url: http://cs.cmu.edu/~woden
     text: cs.cmu.edu/~woden
